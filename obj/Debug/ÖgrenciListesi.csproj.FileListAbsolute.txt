@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\ÖgrenciListesi\bin\Debug\ÖgrenciListesi.exe.config
+C:\Users\PC\source\repos\ÖgrenciListesi\bin\Debug\ÖgrenciListesi.exe
+C:\Users\PC\source\repos\ÖgrenciListesi\bin\Debug\ÖgrenciListesi.pdb
+C:\Users\PC\source\repos\ÖgrenciListesi\obj\Debug\ÖgrenciListesi.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\ÖgrenciListesi\obj\Debug\ÖgrenciListesi.Form1.resources
+C:\Users\PC\source\repos\ÖgrenciListesi\obj\Debug\ÖgrenciListesi.Properties.Resources.resources
+C:\Users\PC\source\repos\ÖgrenciListesi\obj\Debug\ÖgrenciListesi.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\ÖgrenciListesi\obj\Debug\ÖgrenciListesi.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ÖgrenciListesi\obj\Debug\ÖgrenciListesi.exe
+C:\Users\PC\source\repos\ÖgrenciListesi\obj\Debug\ÖgrenciListesi.pdb
